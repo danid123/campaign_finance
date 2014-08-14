@@ -1,6 +1,7 @@
+**_Note: This repo is depricated. Please see the new repo under the [Code for America SF Brigade](https://github.com/sfbrigade/campaign_finance)_**
+
 Hack the Election: SF
 =================
-Note: This repo is depricated. Please see the new repo under the [Code for America SF Brigade](https://github.com/sfbrigade/campaign_finance)
 
 Visualize the San Francisco Board of Supervisor's race and SF ballot initiatives.
 
